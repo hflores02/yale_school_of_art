@@ -176,7 +176,7 @@ body {
     color: rgb(0, 10, 42);
     font-family: "Garamond", serif;
     font-size: 28pt;
-    margin: 2vw 0 1vw 2vw;
+    margin: 2vw 0 2vw 2vw;
 }
 
 .buttons { 
@@ -206,13 +206,6 @@ body {
   .row {
     --bs-gutter-x: 2rem;
   }
-
-
-
-
-
-
-
 
 
 
